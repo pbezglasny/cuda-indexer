@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
 
 const nextConfig = {
   output: "export",
-  basePath: "cuda-indexer", // Change this to your repository name
+  basePath: "/cuda-indexer", // Change this to your repository name
   images: {
     unoptimized: true,
   },
